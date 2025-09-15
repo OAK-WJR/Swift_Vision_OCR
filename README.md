@@ -1,5 +1,6 @@
 # Swift_Vision_OCR
 OCR by Vision framework
+* Estimated optimization time: 2025 October
 
 Original recognition result
 
@@ -23,3 +24,7 @@ Principle:
 3.Find the mid points of (topLeft and bottomLeft point) and (topRight and bottomRight point), then let the line be perpendicular to the top/bottom Linear Functions and pass through the center point of the Linear Functions, and calculate the intersection points of the top/bottom Linear Functions and the vertical Linear Function
 
 You get the 4 points now
+
+能给个小星星⭐️吗
+May I have a little star ⭐️
+
