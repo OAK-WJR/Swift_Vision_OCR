@@ -1,6 +1,6 @@
 # Swift_Vision_OCR
 OCR by Vision framework
-* Estimated optimization time: 2025 October
+* Estimated optimization time: 2025 Dec
 
 Original recognition result
 
